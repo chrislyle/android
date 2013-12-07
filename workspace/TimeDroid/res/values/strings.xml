@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_str">Time Droid</string>
+    <string name="action_settings_str">Settings</string>
+    <string name="get_time_sheet_str">Get Time Sheet</string>
+    <string name="spin_year_str">Year</string>
+    <string name="spin_week_str">Week Number</string>
+    <string name="spin_dow_str">Day Of Week</string>
+    <string name="emp_name_lab_str">Employee Login</string>
+    <string name="instruction_text_lab_str">Pick Year Week Number and Day Of Week</string>
+
+    <string-array name="spin_year_str_array">
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+    </string-array>
+    <string-array name="spin_dow_str_array">
+        <item>Monday</item>
+        <item>TuesDay</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string name="title_activity_display_results">Display Results</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lab_start_str">Start Time</string>
+    <string name="lab_end_str">End Time</string>
+    <string name="lab_total_str">Total Minutes</string>
+    <string name="lab_description_str">Description</string>
+    <string name="lab_notes_str">Notes</string>
+
+</resources>
